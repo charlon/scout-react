@@ -4,6 +4,7 @@ ReactJS rewrite of Scout.
 ### Prerequisites
 * Node
 * ReactJS
+* Create-React-App (used to scaffold this application)
 
 ### Installation
 
