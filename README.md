@@ -10,5 +10,5 @@ ReactJS rewrite of Scout.
 Clone this repository:
 ```
   $ git clone https://github.com/charlon/scout-react.git
-  $ cd scout-flask
+  $ cd scout-react
 ```
